@@ -1,8 +1,11 @@
 #include <iostream>
 
+#include "foo.h"
+#include "bar.h"
+
 using namespace std;
 
 int main(){
-    cout << "Hello World" << endl;
-    return 0;
+    foo();
+    bar();
 }
