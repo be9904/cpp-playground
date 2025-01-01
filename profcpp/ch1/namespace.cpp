@@ -7,6 +7,7 @@ namespace mycode {
     }
 }
 
+// this is how a nested namespace is declared.
 namespace mycode::mynestedcode{
     void foo(){
         std::cout << "foo() called in \'mynestedcode\' namespace in \'mycode\' namespace." << std::endl;
