@@ -3,5 +3,5 @@
         "ostream": "cpp",
         "*.tcc": "cpp",
         "computeshader-vertexsetup": "c"
-    }
+    },
 }
