@@ -3,6 +3,7 @@
         "ostream": "cpp",
         "*.tcc": "cpp",
         "computeshader-vertexsetup": "c",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "xlocale": "cpp"
     },
 }
